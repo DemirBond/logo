@@ -1,2 +1,2 @@
 # logo
-logo image
+Logo URL: https://raw.githubusercontent.com/DemirBond/logo/main/logo.png
